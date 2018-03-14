@@ -1,0 +1,2 @@
+c:\users\senfine\documents\visual studio 2015\Projects\cezar\cezar\bin\Debug\cezar.exe.config
+D:\лабы БИс 4 семестр\ПнаАЯ\cezar\cezar\bin\Debug\cezar.exe.config
