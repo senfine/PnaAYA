@@ -1,0 +1,6 @@
+c:\users\senfine\documents\visual studio 2015\Projects\bulls and cows\bulls and cows\bin\Debug\bulls and cows.exe.config
+c:\users\senfine\documents\visual studio 2015\Projects\bulls and cows\bulls and cows\bin\Debug\bulls and cows.exe
+c:\users\senfine\documents\visual studio 2015\Projects\bulls and cows\bulls and cows\bin\Debug\bulls and cows.pdb
+c:\users\senfine\documents\visual studio 2015\Projects\bulls and cows\bulls and cows\obj\Debug\bulls and cows.csprojResolveAssemblyReference.cache
+c:\users\senfine\documents\visual studio 2015\Projects\bulls and cows\bulls and cows\obj\Debug\bulls and cows.exe
+c:\users\senfine\documents\visual studio 2015\Projects\bulls and cows\bulls and cows\obj\Debug\bulls and cows.pdb
